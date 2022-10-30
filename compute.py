@@ -18,4 +18,6 @@ for i in data:
     Figure(str(count), i["type"], i["area"])
     count += 1                                          #for loop to iterate data.
 
+    
+
 
